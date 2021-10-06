@@ -2,9 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 1 Capstone
+Ini adalah project Capstone mengenai Identifikasi negara mana yang paling membutuhkan bantuan
 
 ```markdown
 Syntax highlighted code block
