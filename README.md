@@ -1,6 +1,13 @@
-## Welcome to My Portofolio
+## WELCOME Novita's Portofolio
+<img src="https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/images/Novita.jpeg" width="200">
 
-You can use the [editor on GitHub](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Down List Project**
+ Beberapa project adan study case list sementara :
+ 
+1. Project 1_Clustering Sanbercode_1
+2. Basic Study Case python 1
+3. Basic Study Case python 2
+
 
 # [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 
@@ -10,12 +17,8 @@ Pengerjaan study case dasar
 # [Study Case 2](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Jawab%20Study%20Case.ipynb)
 pengerjaan study case yang lebih lanjut daripada study case yang pertama, disini lebih ke algoritma arithmatika
 
-```markdown
-Syntax highlighted code block
 
-# Project 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
