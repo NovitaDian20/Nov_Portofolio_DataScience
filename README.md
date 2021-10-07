@@ -1,5 +1,4 @@
 ## WELCOME Novita's Portofolio
-<img src="https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/images/Novita.jpeg" width="200">
 
 **Down List Project**
  Beberapa project adan study case list sementara :
