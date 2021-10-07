@@ -5,6 +5,10 @@ You can use the [editor on GitHub](https://github.com/NovitaDian20/Nov_Portofoli
 # [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 
 Ini adalah project Capstone mengenai Identifikasi negara mana yang paling membutuhkan bantuan
+# [Study Case 1](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Jawaban%20Python%20Basics%20Study%20case.ipynb)
+Pengerjaan study case dasar 
+# [Study Case 2](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Jawab%20Study%20Case.ipynb)
+pengerjaan study case yang lebih lanjut daripada study case yang pertama, disini lebih ke algoritma arithmatika
 
 ```markdown
 Syntax highlighted code block
