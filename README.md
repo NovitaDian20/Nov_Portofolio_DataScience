@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Project 1 Capstone
+### [Project 1 Capstone] (https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 Ini adalah project Capstone mengenai Identifikasi negara mana yang paling membutuhkan bantuan
 
 ```markdown
