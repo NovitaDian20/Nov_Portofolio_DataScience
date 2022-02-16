@@ -3,9 +3,11 @@
 **Down List Project**
  Beberapa project adan study case list sementara :
  
-1. Project 1_Clustering Sanbercode_1
-2. Basic Study Case python 1
-3. Basic Study Case python 2
+1. Project 1 [Clustering] Sanbercode 1
+2. Project 2 [Clustering] E-Commerce Brasil by Olist
+3. Project 3 [Clustering] Keeping Unit Stock (Prediction Unit Stock Company)
+4. Project 4 [Regression] Car Price Prediction
+5. Project 5 [Regression]  
 
 
 # [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
