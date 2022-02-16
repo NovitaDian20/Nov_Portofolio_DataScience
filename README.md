@@ -28,6 +28,9 @@ HELP International is an international humanitarian NGO committed to fighting po
 
 HELP International has raised approximately $10 million. Today, NGO CEOs need to decide how to use this money strategically and effectively. So, the CEO must make the decision to select the countries that need the most help. Therefore, your task is to categorize countries using several socioeconomic and health factors that determine the overall development of the country. Then you need to suggest which countries the CEO needs to focus the most on. 
 
+### Discussion :
+
+
 
 # [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project2_Capstone/Capstone%20E-Commerce%20Brasil%20oleh%20Olist.ipynb)
 
