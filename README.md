@@ -13,7 +13,7 @@
 # [Project 1 Capstone Clustering the Countries by using K-Means for HELP International](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 
 
-![poor country](image/poorcountry.jpg)
+![poor country](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project1_Clustering/image/poorcountry.jpg)
 
 
 **Objective:** 
