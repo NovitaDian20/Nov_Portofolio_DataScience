@@ -15,15 +15,15 @@
 
 ![test](https://www.gannett-cdn.com/media/2019/06/30/USATODAY/usatsports/247WallSt.com-247WS-557266-burundi.jpg?crop=1365,768,x0,y0&width=660&height=372&format=pjpg&auto=webp)
 
-**Objective:** 
+### Objective: 
 
 To categorize countries using socio-economic and health factors that determine the overall development of the country.
 
-**About Organization:**
+### About Organization:
 
 HELP International is an international humanitarian NGO committed to fighting poverty and providing basic facilities and assistance to people in underdeveloped countries during disasters and natural disasters.
 
-**Problems:**
+### Problems:
 
 HELP International has raised approximately $10 million. Today, NGO CEOs need to decide how to use this money strategically and effectively. So, the CEO must make the decision to select the countries that need the most help. Therefore, your task is to categorize countries using several socioeconomic and health factors that determine the overall development of the country. Then you need to suggest which countries the CEO needs to focus the most on. 
 
