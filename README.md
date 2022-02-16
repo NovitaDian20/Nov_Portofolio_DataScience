@@ -13,7 +13,7 @@ Ini adalah project Capstone mengenai Identifikasi negara mana yang paling membut
 
 # [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/tree/main/Project2_Capstone)
 
-#[Project Capstone 3 Keep Stock Unit](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project3_Clustering%20Unit%20Stock/Project2_Clustering_Stock_unit.ipynb)
+# [Project Capstone 3 Keep Stock Unit](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project3_Clustering%20Unit%20Stock/Project2_Clustering_Stock_unit.ipynb)
 
 # [Study Case 1](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Jawaban%20Python%20Basics%20Study%20case.ipynb)
 Pengerjaan study case dasar 
