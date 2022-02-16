@@ -13,7 +13,7 @@
 # [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 "Clustering the Countries by using K-Means for HELP International"
 
-![poor country](image.jpg)
+![poor country](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/images/project1.jpg)
 Objective: 
 To categorize countries using socio-economic and health factors that determine the overall development of the country.
 
