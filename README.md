@@ -11,7 +11,7 @@
 # [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
 Ini adalah project Capstone mengenai Identifikasi negara mana yang paling membutuhkan bantuan
 
-# [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/tree/main/Project2_Capstone)
+# [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project2_Capstone/Capstone%20E-Commerce%20Brasil%20oleh%20Olist.ipynb)
 
 # [Project Capstone 3 Keep Stock Unit](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project3_Clustering%20Unit%20Stock/Project2_Clustering_Stock_unit.ipynb)
 
