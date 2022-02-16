@@ -10,8 +10,8 @@
 5. Project 5 [Regression]  
 
 
-# [Project 1 Capstone Clustering](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
-### "Clustering the Countries by using K-Means for HELP International"
+# [Project 1 Capstone Clustering the Countries by using K-Means for HELP International](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
+
 
 ![poor country](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/images/project1.jpg)
 
