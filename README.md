@@ -14,7 +14,7 @@
 
 
 ![poor country](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project1_Clustering/image/poorcountry.jpg)
-
+![test](https://www.gannett-cdn.com/media/2019/06/30/USATODAY/usatsports/247WallSt.com-247WS-557266-burundi.jpg?crop=1365,768,x0,y0&width=660&height=372&format=pjpg&auto=webp)
 
 **Objective:** 
 
