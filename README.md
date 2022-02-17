@@ -7,7 +7,7 @@
 2. Project 2 [Clustering] E-Commerce Brasil by Olist
 3. Project 3 [Clustering] Keeping Unit Stock (Prediction Unit Stock Company)
 4. Project 4 [Regression] Car Price Prediction
-5. Project 5 [Regression]  
+
 
 
 # [Project 1 Capstone Clustering the Countries by using K-Means for HELP International](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/blob/main/Project1_Clustering/Clustering_1.ipynb)
@@ -32,8 +32,13 @@ for the further information about the answer, you can **[click](https://github.c
 
 
 # [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project2_Capstone/Capstone%20E-Commerce%20Brasil%20oleh%20Olist.ipynb)
+![](https://storage.googleapis.com/kaggle-organizations/1942/thumbnail.png?r=51)
+
+### Study Case:
+
 
 # [Project Capstone 3 Keep Stock Unit](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project3_Clustering%20Unit%20Stock/Project2_Clustering_Stock_unit.ipynb)
+![](https://st2.depositphotos.com/2547605/44338/v/600/depositphotos_443380256-stock-illustration-sku-stock-keeping-unit-acronym.jpg)
 
 # [Project Capstone 4 Regression Car Price Prediction](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project4_Regression_Prediction%20Car%20Price/Capstone_International_Certificated_Car_Price_Regression_Novita.ipynb)
 
