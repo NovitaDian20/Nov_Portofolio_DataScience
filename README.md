@@ -37,9 +37,10 @@ for the further information about the answer, you can **[click](https://github.c
 
 # [Project Capstone 4 Regression Car Price Prediction](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project4_Regression_Prediction%20Car%20Price/Capstone_International_Certificated_Car_Price_Regression_Novita.ipynb)
 
+![](https://miro.medium.com/max/648/1*kQBj7l-Y1WPZfX9nKIYL1Q.jpeg)
 ### Study Case :
 A Chinese automaker Aspiring to enter the US market by setting up their manufacturing unit there and producing cars locally to provide competition in the United States region. have contracted with a car consulting firm to understand the factors on which their car is priced. In particular, they want to understand the factors that affect the price of cars in the American market, as it may be very different from the Chinese market.
-![image](https://user-images.githubusercontent.com/86830913/154399938-cfc944f1-33cc-4338-9ea8-e5aa9ebd4081.png)
+
 
 
 # [Managing data with sql query and python](https://github.com/NovitaDian20/Nov_Portofolio_DataScience/tree/main/Project_Databased)
