@@ -32,8 +32,8 @@ for the further information about the answer, you can **[click](https://github.c
 
 
 # [Project Capstone 2 Capstone E-Commerce Brasil oleh Olist](https://github.com/NovitaDian20/Portofolio-Data-/blob/main/Project2_Capstone/Capstone%20E-Commerce%20Brasil%20oleh%20Olist.ipynb)
-![](https://storage.googleapis.com/kaggle-organizations/1942/thumbnail.png?r=51)
 
+![](https://cdn3.f-cdn.com//files/download/40381066/c27666.jpg)
 ### Study Case:
 
 
