@@ -1,8 +1,8 @@
 ## WELCOME to Novita's Data Science Portofolio
+Hii Data Enthusiast!, This is me Novita!
 
-**Down List Project**
- Beberapa project adan study case list sementara :
- 
+**some temporary project list :**
+
 1. Project 1 [Clustering] Sanbercode 1
 2. Project 2 [Clustering] E-Commerce Brasil by Olist
 3. Project 3 [Clustering] Keeping Unit Stock (Prediction Unit Stock Company)
